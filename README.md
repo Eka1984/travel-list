@@ -10,4 +10,4 @@ A simple React web application that allows users to create a list of items neede
 - **Delete Items**: Remove individual items from the list.
 - **Clear List**: Delete all items to start a new list.
 
-![Demo of the Trip Packing List App](demo.png)
+![Demo of the Trip Packing List App](src/demo.png)
